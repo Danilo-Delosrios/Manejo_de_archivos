@@ -166,7 +166,7 @@ public class Form extends javax.swing.JFrame {
         jLabel10.setBackground(new java.awt.Color(255, 153, 153));
         jLabel10.setFont(new java.awt.Font("Viner Hand ITC", 0, 12)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(204, 102, 0));
-        jLabel10.setText("BY  DANILO DE LOS RIOS");
+        jLabel10.setText("BY  DANILO DE LOS RIOS AND SEBASTIAN PABON");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
